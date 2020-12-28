@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E48FA17725912EF2002CBB0E /* OrderListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48FA17625912EF2002CBB0E /* OrderListView.swift */; };
+		E48FA17A259132EA002CBB0E /* MenuListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48FA179259132EA002CBB0E /* MenuListView.swift */; };
+		E48FA17D25913403002CBB0E /* ContentHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48FA17C25913403002CBB0E /* ContentHeaderView.swift */; };
+		E48FA18025931586002CBB0E /* OrderRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48FA17F25931586002CBB0E /* OrderRowView.swift */; };
+		E48FA1832594EF1B002CBB0E /* MenuRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48FA1822594EF1B002CBB0E /* MenuRowView.swift */; };
+		E48FA1862594EFA3002CBB0E /* RatingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48FA1852594EFA3002CBB0E /* RatingsView.swift */; };
+		E48FA1892594F21A002CBB0E /* PageTitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48FA1882594F21A002CBB0E /* PageTitleView.swift */; };
+		E48FA18D2594F6CE002CBB0E /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48FA18C2594F6CE002CBB0E /* HistoryView.swift */; };
+		E48FA1912594F7F8002CBB0E /* HistoryListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48FA1902594F7F8002CBB0E /* HistoryListView.swift */; };
+		E48FA1982594F8EF002CBB0E /* HistoryRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48FA1972594F8EF002CBB0E /* HistoryRowView.swift */; };
+		E48FA1A025951E13002CBB0E /* ListHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48FA19F25951E13002CBB0E /* ListHeaderView.swift */; };
+		E48FA1A6259565B6002CBB0E /* Avenir.ttc in Resources */ = {isa = PBXBuildFile; fileRef = E48FA1A5259565B6002CBB0E /* Avenir.ttc */; };
+		E48FA1AC259836E5002CBB0E /* SelectedImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48FA1AB259836E5002CBB0E /* SelectedImageView.swift */; };
 		E4B1EE19258C400F00133C0C /* HuliPizzaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B1EE18258C400F00133C0C /* HuliPizzaApp.swift */; };
 		E4B1EE1B258C400F00133C0C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B1EE1A258C400F00133C0C /* ContentView.swift */; };
 		E4B1EE1D258C401000133C0C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4B1EE1C258C401000133C0C /* Assets.xcassets */; };
@@ -14,6 +27,19 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E48FA17625912EF2002CBB0E /* OrderListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderListView.swift; sourceTree = "<group>"; };
+		E48FA179259132EA002CBB0E /* MenuListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuListView.swift; sourceTree = "<group>"; };
+		E48FA17C25913403002CBB0E /* ContentHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentHeaderView.swift; sourceTree = "<group>"; };
+		E48FA17F25931586002CBB0E /* OrderRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderRowView.swift; sourceTree = "<group>"; };
+		E48FA1822594EF1B002CBB0E /* MenuRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuRowView.swift; sourceTree = "<group>"; };
+		E48FA1852594EFA3002CBB0E /* RatingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingsView.swift; sourceTree = "<group>"; };
+		E48FA1882594F21A002CBB0E /* PageTitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageTitleView.swift; sourceTree = "<group>"; };
+		E48FA18C2594F6CE002CBB0E /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
+		E48FA1902594F7F8002CBB0E /* HistoryListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryListView.swift; sourceTree = "<group>"; };
+		E48FA1972594F8EF002CBB0E /* HistoryRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryRowView.swift; sourceTree = "<group>"; };
+		E48FA19F25951E13002CBB0E /* ListHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListHeaderView.swift; sourceTree = "<group>"; };
+		E48FA1A5259565B6002CBB0E /* Avenir.ttc */ = {isa = PBXFileReference; lastKnownFileType = file; path = Avenir.ttc; sourceTree = "<group>"; };
+		E48FA1AB259836E5002CBB0E /* SelectedImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectedImageView.swift; sourceTree = "<group>"; };
 		E4B1EE15258C400F00133C0C /* HuliPizza.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HuliPizza.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4B1EE18258C400F00133C0C /* HuliPizzaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HuliPizzaApp.swift; sourceTree = "<group>"; };
 		E4B1EE1A258C400F00133C0C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -33,6 +59,42 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E48FA17225912DF3002CBB0E /* HistoryView */ = {
+			isa = PBXGroup;
+			children = (
+				E48FA18C2594F6CE002CBB0E /* HistoryView.swift */,
+				E48FA1902594F7F8002CBB0E /* HistoryListView.swift */,
+				E48FA1972594F8EF002CBB0E /* HistoryRowView.swift */,
+			);
+			path = HistoryView;
+			sourceTree = "<group>";
+		};
+		E48FA17325912E24002CBB0E /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		E48FA17425912E44002CBB0E /* MenuView */ = {
+			isa = PBXGroup;
+			children = (
+				E48FA179259132EA002CBB0E /* MenuListView.swift */,
+				E48FA1822594EF1B002CBB0E /* MenuRowView.swift */,
+				E48FA1852594EFA3002CBB0E /* RatingsView.swift */,
+			);
+			path = MenuView;
+			sourceTree = "<group>";
+		};
+		E48FA17525912E63002CBB0E /* OrderView */ = {
+			isa = PBXGroup;
+			children = (
+				E48FA17625912EF2002CBB0E /* OrderListView.swift */,
+				E48FA17F25931586002CBB0E /* OrderRowView.swift */,
+			);
+			path = OrderView;
+			sourceTree = "<group>";
+		};
 		E4B1EE0C258C400F00133C0C = {
 			isa = PBXGroup;
 			children = (
@@ -52,8 +114,17 @@
 		E4B1EE17258C400F00133C0C /* HuliPizza */ = {
 			isa = PBXGroup;
 			children = (
-				E4B1EE18258C400F00133C0C /* HuliPizzaApp.swift */,
 				E4B1EE1A258C400F00133C0C /* ContentView.swift */,
+				E48FA17C25913403002CBB0E /* ContentHeaderView.swift */,
+				E48FA1882594F21A002CBB0E /* PageTitleView.swift */,
+				E48FA19F25951E13002CBB0E /* ListHeaderView.swift */,
+				E48FA1AB259836E5002CBB0E /* SelectedImageView.swift */,
+				E48FA1A5259565B6002CBB0E /* Avenir.ttc */,
+				E48FA17525912E63002CBB0E /* OrderView */,
+				E48FA17425912E44002CBB0E /* MenuView */,
+				E48FA17325912E24002CBB0E /* Model */,
+				E48FA17225912DF3002CBB0E /* HistoryView */,
+				E4B1EE18258C400F00133C0C /* HuliPizzaApp.swift */,
 				E4B1EE1C258C401000133C0C /* Assets.xcassets */,
 				E4B1EE21258C401000133C0C /* Info.plist */,
 				E4B1EE1E258C401000133C0C /* Preview Content */,
@@ -128,6 +199,7 @@
 			files = (
 				E4B1EE20258C401000133C0C /* Preview Assets.xcassets in Resources */,
 				E4B1EE1D258C401000133C0C /* Assets.xcassets in Resources */,
+				E48FA1A6259565B6002CBB0E /* Avenir.ttc in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,8 +210,20 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E48FA1982594F8EF002CBB0E /* HistoryRowView.swift in Sources */,
+				E48FA18025931586002CBB0E /* OrderRowView.swift in Sources */,
+				E48FA17D25913403002CBB0E /* ContentHeaderView.swift in Sources */,
+				E48FA18D2594F6CE002CBB0E /* HistoryView.swift in Sources */,
 				E4B1EE1B258C400F00133C0C /* ContentView.swift in Sources */,
+				E48FA17A259132EA002CBB0E /* MenuListView.swift in Sources */,
 				E4B1EE19258C400F00133C0C /* HuliPizzaApp.swift in Sources */,
+				E48FA1AC259836E5002CBB0E /* SelectedImageView.swift in Sources */,
+				E48FA1832594EF1B002CBB0E /* MenuRowView.swift in Sources */,
+				E48FA1892594F21A002CBB0E /* PageTitleView.swift in Sources */,
+				E48FA17725912EF2002CBB0E /* OrderListView.swift in Sources */,
+				E48FA1A025951E13002CBB0E /* ListHeaderView.swift in Sources */,
+				E48FA1862594EFA3002CBB0E /* RatingsView.swift in Sources */,
+				E48FA1912594F7F8002CBB0E /* HistoryListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
